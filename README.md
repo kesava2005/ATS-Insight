@@ -1,20 +1,20 @@
-# ATS Insight — LLM-Powered Resume Score Checker
+# 🧠 ATS Insight — LLM-Powered Resume Score Checker
 
 **ATS Insight** is a full-stack web application that evaluates your resume's compatibility with Applicant Tracking Systems (ATS) using advanced LLMs (like Gemini). It provides a **score** along with **clear improvement suggestions**, helping you tailor your resume for better job visibility.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Upload your resume or text
-- Uses Gemini AI to evaluate content
-- Returns ATS score (0–100)
-- Lists actionable suggestions (e.g., formatting, keyword usage)
-- Uses TailwindCSS for clean, responsive UI
+- ✅ Upload your resume or text
+- 🧠 Uses Gemini AI to evaluate content
+- 📊 Returns ATS score (0–100)
+- 📌 Lists actionable suggestions (e.g., formatting, keyword usage)
+- 💡 Uses TailwindCSS for clean, responsive UI
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Frontend     | Backend         | AI Layer         |
 |--------------|------------------|------------------|
@@ -23,7 +23,7 @@
 
 ---
 
-## Installation Guide
+## 🧪 Installation Guide
 
 ```bash
 # Clone the repo
